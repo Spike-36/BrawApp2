@@ -1,0 +1,7 @@
+[
+  { "term": "cat",   "translations": { "en": "cat",   "es": "gato" } },
+  { "term": "dog",   "translations": { "en": "dog",   "es": "perro" } },
+  { "term": "water", "translations": { "en": "water", "es": "agua" } },
+  { "term": "bread", "translations": { "en": "bread", "es": "pan" } },
+  { "term": "milk",  "translations": { "en": "milk",  "es": "leche" } }
+]
